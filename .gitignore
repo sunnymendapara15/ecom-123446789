@@ -1,0 +1,22 @@
+# .NET
+**/bin/
+**/obj/
+*.user
+*.rsuser
+*.suo
+.vscode/
+
+# Node / frontend
+node_modules/
+**/node_modules/
+dist/
+.vite/
+frontend/dist
+frontend/node_modules
+
+# Environment overrides
+.env.local
+.env.*.local
+
+# Misc
+*.log
